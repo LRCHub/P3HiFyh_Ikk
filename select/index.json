@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Petals",
+  "base_artist": "Orangestar",
+  "createdAt": "2026-04-05T10:08:52.131506Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Petals",
+      "artist": "Bibio",
+      "has_synced": true,
+      "path": "select/01_Petals_Bibio.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Petals",
+      "artist": "Basenji feat. Scenic",
+      "has_synced": true,
+      "path": "select/02_Petals_Basenji_feat._Scenic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daisy Dead Petals (B-side Version)",
+      "artist": "Tori Amos",
+      "has_synced": false,
+      "path": "select/03_Daisy_Dead_Petals_(B-side_Version)_Tori_Amos.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daisy Dead Petals",
+      "artist": "Tori Amos",
+      "has_synced": false,
+      "path": "select/04_Daisy_Dead_Petals_Tori_Amos.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Petals",
+      "artist": "TOPS",
+      "has_synced": true,
+      "path": "select/05_Petals_TOPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Petals",
+      "artist": "The Primitives",
+      "has_synced": true,
+      "path": "select/06_Petals_The_Primitives.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hanabira (Petals)",
+      "artist": "Aoi Teshima",
+      "has_synced": false,
+      "path": "select/07_Hanabira_(Petals)_Aoi_Teshima.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rain of Brass Petals",
+      "artist": "山岡晃",
+      "has_synced": false,
+      "path": "select/08_Rain_of_Brass_Petals_山岡晃.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rain Of Brass Petals",
+      "artist": "Akira Yamaoka",
+      "has_synced": false,
+      "path": "select/09_Rain_Of_Brass_Petals_Akira_Yamaoka.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rain of Brass Petals-Three Voices Edit (Bonus Track)",
+      "artist": "Akira Yamaoka",
+      "has_synced": true,
+      "path": "select/10_Rain_of_Brass_Petals-Three_Voices_Edit_(Bonus_Track)_Akira_Yamaoka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rain Of Brass Petals - Three Voices Edit (Bonus Track)",
+      "artist": "Akira Yamaoka",
+      "has_synced": true,
+      "path": "select/11_Rain_Of_Brass_Petals_-_Three_Voices_Edit_(Bonus_Track)_Akira_Yamaoka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Traveling Through Scatter Petals / Hanakikou",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/12_Traveling_Through_Scatter_Petals___Hanakikou_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Petals",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/13_Petals_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blood Petals",
+      "artist": "Corelia",
+      "has_synced": true,
+      "path": "select/14_Blood_Petals_Corelia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Petals",
+      "artist": "The Jackson 5",
+      "has_synced": false,
+      "path": "select/15_Petals_The_Jackson_5.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Petals",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_Petals_Orangestar.txt"
+    }
+  ]
+}
